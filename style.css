@@ -237,6 +237,12 @@
     text-align: center;
   
   }
+  .linea{
+    color: #b5b5b5;
+    width: 70%;
+   margin-left: 15%;
+   margin-top: 20%;
+  }
   .btn_btn-primary{
     padding: 2px 10px;
     font-size: 18px;
@@ -259,15 +265,15 @@
   .card_card-body p{
     font-family:'Julius Sans One', sans-serif; 
     text-align: center;
-    color: #ffffff;
-    font-size: 14px;
-    background-color: #BC9293;
+    color: #BC9293;
+    font-size: 15px;
+    background-color: #f6f3f6;
     font-weight: bold;
-    margin-left: 25%;
+    margin-left: 29%;
     padding: 5% 9%;
-    margin-top: 2%;
+    margin-top: 4%;
     background-image: url(./imagenes/efecto.gif);
-    background-size: 50%;
+    background-size: 60%;
   }
 main{
 background-image: url(./imagenes/fondofinal.png);
@@ -275,6 +281,7 @@ background-size: 100%;
 
 }
 .parrafo_esperamos{
+  margin-top: 5%;
   font-family: 'Calligraffitti', cursive;
       font-size: 20px;
       font-weight: bold;
