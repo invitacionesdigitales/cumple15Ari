@@ -204,7 +204,7 @@
   }
   .parrafo_ubicacion{
     font-family: 'Calligraffitti', cursive;
-      font-size: 16px;
+      font-size: 17px;
       font-weight: bold;
       color: #6a6a6a;
       text-align: center;
@@ -231,7 +231,7 @@
 
   .parrafo_deposito{
     font-family: 'Calligraffitti', cursive;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: bold;
     color: #6a6a6a;
     text-align: center;
@@ -265,6 +265,9 @@
     font-weight: bold;
     margin-left: 25%;
     padding: 5% 9%;
+    margin-top: 2%;
+    background-image: url(./imagenes/efecto.gif);
+    background-size: 50%;
   }
 main{
 background-image: url(./imagenes/fondofinal.png);
