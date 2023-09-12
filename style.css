@@ -87,7 +87,7 @@
   .final-sms h2 {
     text-align: center;
     font-size: 100px;
-    color: rgb(247, 241, 212);
+    color: rgb(255, 255, 255);
   }
   
   @media (max-width: 730px) {
@@ -367,7 +367,7 @@ margin-top: -5%;
 
   .box__copyright a {
     text-decoration: none;
-    color: #fba6fc;
+    color: #8b768c;
   }
 
     }
