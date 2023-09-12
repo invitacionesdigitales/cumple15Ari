@@ -217,7 +217,7 @@
    .click_Ubi{
     padding: 2px 10px;
     font-size: 18px;
-    margin-left: 29%;
+    margin-left: 30%;
     text-decoration: none;
     color: #ffffff;
     border: 1px solid rgb(248, 220, 248);
@@ -262,12 +262,26 @@
     width: 10%;
     margin-left: 46%;
   }
+
+ .titulo2{
+  font-family: 'Calligraffitti', cursive;
+  font-size: 17px;
+  font-weight: bold;
+  color: #6a6a6a;
+  text-align: center;
+  margin-top: 5%;
+ }
+
+ .whatsap{
+  width: 13%;
+  margin-left: 44%;
+ }
   .card_card-body p{
     font-family:'Julius Sans One', sans-serif; 
     text-align: center;
-    color: #BC9293;
+    color: #b38d8e;
     font-size: 15px;
-    background-color: #f6f3f6;
+    background-color: #e7e7e7;
     font-weight: bold;
     margin-left: 29%;
     padding: 5% 9%;
@@ -288,6 +302,7 @@ background-size: 100%;
       color: #6a6a6a;
       text-align: center;
 }
+
 .nombre_Ari{
 width: 42%;
 margin-left: 30%;
@@ -303,4 +318,42 @@ margin-top: -5%;
   margin-left: 35%;
   margin-top: -30%;
 }
+
+.logo{
+  width: 44%;
+  margin-left: 55%;
+  margin-top: -41%;
+}
+  .tecla a {
+    text-decoration: none;
+    width: 30px;
+    color: #d1a2e5;
+  }
+  
+  .tecla {
+  margin-top: -5%;
+   margin-left: 50%;
+  }
+ 
+  
+  .box__copyright {
+    max-width: 1200px;
+    padding: 0px 40px;
+    text-align: center;
+    margin-top: -20%;
+    
+  }
+
+  .box__copyright p {
+    margin-top: 20px;
+    color: #989898;
+    font-size: 10px;
+    text-align: center;
+  }
+
+  .box__copyright a {
+    text-decoration: none;
+    color: #a4a4a4;
+  }
+
     }
